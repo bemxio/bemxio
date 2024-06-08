@@ -7,5 +7,5 @@ also check out [my gists](https://gist.github.com/bemxio) for random scripts and
 
 here are some cool cards:
 
-![bemxio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemxio&count_private=true&show_icons=true&hide_border=true&bg_color=141414&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=0)
-![bemxio's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bemxio&layout=compact&show_icons=true&hide_border=true&bg_color=141414&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=0)
+![bemxio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemxio&theme=dark&line_height=20&show_icons=true&include_all_commits=true&count_private=true)
+![bemxio's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bemxio&theme=dark&layout=compact&show_icons=true&exclude_repo=colab-notebooks)
