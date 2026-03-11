@@ -1,11 +1,5 @@
-hi i am bem
+hello, i am bem!
 
-nowadays i don't really have that much motivation to work on new projects but sometimes i still update repos and once in a while maybe get enough courage to start a new project
+i am a self-taught all-round developer, that has dipped his toes in a wide variety of things, from fun/utility websites, Discord bots, and automation scripts, to game development, interpreters and Assembly on bare metal
 
-check out my pinned repos for projects that i am either proud of or that have got a lot of attention<br/>
-also check out [my gists](https://gist.github.com/bemxio) for random scripts and [AUR packages](https://aur.archlinux.org/packages?SeB=M&K=bemxio)
-
-here are some cool cards:
-
-![bemxio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemxio&theme=dark&line_height=20&show_icons=true&include_all_commits=true&count_private=true)
-![bemxio's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bemxio&theme=dark&layout=compact&show_icons=true&exclude_repo=colab-notebooks)
+feel free to check out the pinned repositories below for projects that either have gotten a bit of traction or that i personally feel proud of, [my gists](https://gist.github.com/bemxio) for various scripts or [AUR packages](https://aur.archlinux.org/packages?SeB=M&K=bemxio) in case you're using an Arch-based Linux distro
